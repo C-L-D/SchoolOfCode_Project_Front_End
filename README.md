@@ -30,6 +30,7 @@ We decided on iterative releases and created our iteration 0 by deploying our fr
 This app provides user-specifc dashboards for bootcamp coaches and bootcampers based upon user logins. These dashboards present relevant information to the user that will be obtained from a Serverless backend.
 
 ## License
+MIT
 
 ## Credits
 
