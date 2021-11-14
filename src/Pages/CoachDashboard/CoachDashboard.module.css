@@ -1,0 +1,73 @@
+.mainTitle {
+  font-family: "Cardo";
+  font-style: medium;
+  font-size: 5rem;
+  letter-spacing: -4%;
+  vertical-align: top;
+}
+
+.subTitle {
+  font-family: "Cardo";
+  font-size: 1.4rem;
+  letter-spacing: -4%;
+  vertical-align: top;
+  margin-top: -1.5rem;
+  margin-bottom: 5rem;
+}
+
+.list {
+  margin-left: 25%;
+  margin-right: auto;
+  width: 50%;
+  left: 100px;
+}
+
+.title {
+  margin: 0.5em 0;
+  text-align: center;
+  font-size: x-large;
+}
+
+.dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.energiserCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 3px solid#1d5b40;
+  padding: 2.7em 5em;
+  border-radius: 1em;
+  box-shadow: 0 3px 3px 0;
+  background-color: rgb(193, 218, 215, 0.3);
+}
+
+.energiserName {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: blue;
+}
+
+.randomiserButton {
+  border: 3px solid#1d5b40;
+  padding: 0.5em;
+  border-radius: 1em;
+  box-shadow: 0 3px 3px 0;
+  font-size: 1.5rem;
+}
+.randomiserButton:hover {
+  background-color: rgb(193, 218, 215, 0.3);
+}
+
+.secondaryTitle {
+  font-family: "Cardo";
+  font-style: medium;
+  font-size: 3rem;
+  letter-spacing: -4%;
+  vertical-align: top;
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
